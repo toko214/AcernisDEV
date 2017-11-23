@@ -1,0 +1,30 @@
+REV 5:
+ - Added Dimensional mirror packet's (outdated)
+ - Fixed / added 80% of all buffstat's
+ - Fixed character creation
+ - Fixed Kaiser not able to attack (hacky)
+
+TODO:
+ - Remove mastery books
+ - Fix Sleepywoord portals
+ - Add hairstyles
+ - Check scrolling / cubing
+ - Fix cubing (screen/ UI)
+ - Fix jump-down
+ - Update Dimensional mirror
+
+REV 6:
+ - Fixed jump-down
+ - Fixed missing / bugged map scripts
+ - Fixed sleepywood portal not working, won't fix all portals..
+ - Fixed android name changing
+ - Fixed commands
+ - Blocked mastery books. (mastery through @npc)
+
+TODO:
+ - Fix android style changing
+ - Fix androud spawn @ login (need to re-equip)
+ - Fix cubing (screen/ UI)
+ - Update Dimensional mirror
+ - Add hairstyles
+
