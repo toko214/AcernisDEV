@@ -25,6 +25,7 @@ import constants.ServerConfig;
 import constants.WorldConstants.WorldOption;
 import handling.MapleServerHandler;
 import handling.login.LoginServer;
+import static handling.login.LoginServer.PORT;
 import handling.mina.MapleCodecFactory;
 import handling.world.CheaterData;
 import java.io.IOException;
@@ -128,7 +129,14 @@ public class ChannelServer {
         loadEvents();
 
         try {
-            acceptor.bind(new InetSocketAddress(p.getProperty("ip"),port), new MapleServerHandler(), acceptor_config);
+            if ("127.0.0.1".equals(ServerConfig.interface_))
+            {
+                acceptor.bind(new InetSocketAddress(port), new MapleServerHandler(), acceptor_config);
+            }
+            else
+            {
+                acceptor.bind(new InetSocketAddress(ServerConfig.interface_ ,port), new MapleServerHandler(), acceptor_config);
+            }
             System.out.println("Channel " + channel + " is listening on port " + port + ".");
             eventSM.init();
         } catch (IOException e) {

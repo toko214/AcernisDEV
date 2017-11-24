@@ -99,8 +99,16 @@ public class LoginServer {
         cfg.getFilterChain().addLast("codec", new ProtocolCodecFilter(new MapleCodecFactory()));
 
         try {
-            InetSocketadd = new InetSocketAddress(p.getProperty("ip"), PORT);
-            System.out.println("login: " + InetSocketadd.getAddress());
+            if ("127.0.0.1".equals(ServerConfig.interface_))
+            {
+                System.out.println("localhost");
+                InetSocketadd = new InetSocketAddress(PORT);
+            }
+            else
+            {
+                System.out.println("not localhost");
+                InetSocketadd = new InetSocketAddress(ServerConfig.interface_, PORT);
+            }
             acceptor.bind(InetSocketadd, new MapleServerHandler(), cfg);
             System.out.println(" Complete!");
             System.out.println("Login Server is listening on port " + PORT + ".");

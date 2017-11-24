@@ -90,7 +90,6 @@ public class Start {
             System.out.println("Failed to load config.ini");
             System.exit(0);
         }
-        System.out.println("start"+p.getProperty("ip"));
         ServerConfig.interface_ = p.getProperty("ip");
         ServerConfig.logPackets = Boolean.parseBoolean(p.getProperty("logOps"));
         ServerConfig.adminOnly = Boolean.parseBoolean(p.getProperty("adminOnly"));
