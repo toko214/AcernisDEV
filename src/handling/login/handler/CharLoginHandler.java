@@ -61,6 +61,7 @@ public class CharLoginHandler {
     }
 
     public static void login(final LittleEndianAccessor slea, final MapleClient c) {
+        System.out.println("login in...");
         String pwd = c.isLocalhost() ? "admin" : slea.readMapleAsciiString();
         String login = c.isLocalhost() ? "admin" : slea.readMapleAsciiString();
 
@@ -73,6 +74,7 @@ public class CharLoginHandler {
 
         int loginok = 0;
         if (AutoRegister.autoRegister && !AutoRegister.getAccountExists(login) && (!c.hasBannedIP() || !c.hasBannedMac())) {
+            System.out.println("not banned..");
             if (pwd.equalsIgnoreCase("disconnect") || pwd.equalsIgnoreCase("fixme")) {
                 c.getSession().write(CWvsContext.broadcastMsg(1, "This password is invalid."));
                 c.getSession().write(LoginPacket.getLoginFailed(1)); //Shows no message, used for unstuck the login button
@@ -85,6 +87,7 @@ public class CharLoginHandler {
                 return;
             }
         } else if (pwd.equalsIgnoreCase("disconnect")) {
+            System.out.println("so wierd....");
             for (WorldOption servers : WorldOption.values()) {
                 if (servers.show() && servers.isAvailable()) {
                     for (MapleCharacter chr : c.loadCharacters(servers.getWorld())) {

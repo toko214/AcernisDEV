@@ -3149,3 +3149,696 @@ Exception javax.script.ScriptException: ReferenceError: "importPackage" is not d
 ------------------------ 2017-11-24 14:45:45 ------------------------
 Error executing script. Path: scripts/event/AswanOffSeason.js
 Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:44:29 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:44:30 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-24 16:44:30 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:44:30 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:44:30 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-24 16:44:30 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:44:30 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:44:31 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:44:32 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-24 16:44:32 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:44:32 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:44:32 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-24 16:44:32 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:44:32 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:44:33 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:44:33 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-24 16:44:33 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:44:33 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:44:33 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-24 16:44:33 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:44:33 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:49:56 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:49:56 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-24 16:49:56 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:49:57 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:49:57 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-24 16:49:57 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:49:57 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:49:57 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:49:57 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-24 16:49:57 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:49:57 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:49:58 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-24 16:49:58 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:49:58 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:49:58 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:49:58 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-24 16:49:58 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:49:58 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:49:58 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-24 16:49:58 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 16:49:58 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:04:06 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:04:07 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-24 17:04:07 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:04:07 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:04:07 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-24 17:04:07 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:04:07 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:04:07 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:04:08 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-24 17:04:08 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:04:08 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:04:08 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-24 17:04:08 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:04:08 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:04:08 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:04:08 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-24 17:04:08 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:04:09 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:04:09 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-24 17:04:09 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:04:09 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:14:39 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:14:41 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-24 17:14:41 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:14:41 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:14:41 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-24 17:14:41 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:14:41 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:14:42 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:14:42 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-24 17:14:42 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:14:42 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:14:43 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-24 17:14:43 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:14:43 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:14:43 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:14:43 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-24 17:14:43 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:14:43 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:14:44 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-24 17:14:44 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 17:14:44 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 23:18:11 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 23:18:12 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-24 23:18:12 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 23:18:12 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 23:18:12 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-24 23:18:12 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 23:18:12 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 23:18:13 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 23:18:13 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-24 23:18:13 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 23:18:13 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 23:18:13 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-24 23:18:13 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 23:18:13 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 23:18:13 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 23:18:14 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-24 23:18:14 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 23:18:14 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 23:18:14 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-24 23:18:14 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-24 23:18:14 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:13:13 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:13:14 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-25 13:13:14 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:13:14 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:13:14 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-25 13:13:14 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:13:14 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:13:15 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:13:15 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-25 13:13:15 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:13:15 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:13:15 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-25 13:13:15 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:13:15 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:13:16 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:13:16 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-25 13:13:16 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:13:16 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:13:16 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-25 13:13:16 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:13:16 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:16:47 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:16:48 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-25 13:16:48 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:16:48 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:16:48 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-25 13:16:48 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:16:48 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:16:49 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:16:49 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-25 13:16:49 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:16:49 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:16:49 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-25 13:16:49 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:16:49 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:16:50 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:16:50 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-25 13:16:50 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:16:50 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:16:50 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-25 13:16:50 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:16:50 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:54:09 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:54:10 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-25 13:54:10 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:54:11 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:54:11 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-25 13:54:11 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:54:11 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:54:11 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:54:11 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-25 13:54:11 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:54:11 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:54:11 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-25 13:54:11 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:54:12 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:54:12 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:54:12 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-25 13:54:12 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:54:12 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:54:12 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-25 13:54:12 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:54:12 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:57:13 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:57:14 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-25 13:57:14 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:57:14 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:57:14 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-25 13:57:14 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:57:14 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:57:15 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:57:15 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-25 13:57:15 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:57:15 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:57:15 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-25 13:57:15 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:57:15 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:57:16 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:57:16 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-25 13:57:16 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:57:17 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:57:17 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-25 13:57:17 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:57:17 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:59:35 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:59:36 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-25 13:59:36 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:59:37 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:59:37 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-25 13:59:37 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:59:37 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:59:37 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:59:38 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-25 13:59:38 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:59:38 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:59:38 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-25 13:59:38 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:59:38 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:59:38 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:59:38 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-25 13:59:38 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:59:38 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:59:38 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-25 13:59:38 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 13:59:39 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 14:02:14 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 14:02:15 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-25 14:02:15 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 14:02:15 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 14:02:15 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-25 14:02:15 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 14:02:16 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 14:02:16 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 14:02:16 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-25 14:02:16 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 14:02:16 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 14:02:16 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-25 14:02:16 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 14:02:17 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 14:02:17 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 14:02:17 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2017-11-25 14:02:17 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 14:02:17 ------------------------
+Error executing script. Path: scripts/event/Azwan.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 14:02:17 ------------------------
+Error executing script. Path: scripts/event/cpq.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 7
+------------------------ 2017-11-25 14:02:17 ------------------------
+Error executing script. Path: scripts/event/cpq2.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2017-11-25 14:02:17 ------------------------
+Error executing script. Path: scripts/event/AswanOffSeason.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1

@@ -489,6 +489,7 @@ public class MapleClient implements Serializable {
      * @return The state of the login.
      */
     public int finishLogin() {
+        System.out.println("why finish login...");
         login_mutex.lock();
         try {
             final byte state = getLoginState();
@@ -526,6 +527,7 @@ public class MapleClient implements Serializable {
 
     public void loginData(String login) {
         try {
+            System.out.println("Checking data...");
             Connection con = DatabaseConnection.getConnection();
             try (PreparedStatement ps = con.prepareStatement("SELECT * FROM accounts WHERE name = ?")) {
                 ps.setString(1, login);

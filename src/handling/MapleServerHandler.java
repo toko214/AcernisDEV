@@ -299,9 +299,11 @@ public class MapleServerHandler extends IoHandlerAdapter implements MapleServerH
     @Override
     public void sessionOpened(final IoSession session) throws Exception {
         // Start of IP checking
+        System.out.println("Opening Session...");
         final String address = session.getRemoteAddress().toString().split(":")[0];
 
         if (BlockedIP.contains(address)) {
+            System.out.println("You Banned");
             session.close();
             return;
         }
@@ -310,16 +312,20 @@ public class MapleServerHandler extends IoHandlerAdapter implements MapleServerH
         byte count;
         if (track == null) {
             count = 1;
+            System.out.println("What Is Track");
         } else {
+            System.out.println("Track Not Null");
             count = track.right;
 
             final long difference = System.currentTimeMillis() - track.left;
             if (difference < 2000) { // Less than 2 sec
+                System.out.println("Differnt Is Not Good");
                 count++;
             } else if (difference > 20000) { // Over 20 sec
                 count = 1;
             }
             if (count >= 10) {
+                System.out.println("WTF IS COUNTTTTT");
                 BlockedIP.add(address);
                 tracker.remove(address); // Cleanup
                 session.close();
@@ -330,6 +336,7 @@ public class MapleServerHandler extends IoHandlerAdapter implements MapleServerH
         // End of IP checking.
         String IP = address.substring(address.indexOf('/') + 1, address.length());
         if (LoginServer.isShutdown()) {
+            System.out.println("Server Is Stupid");
             session.close();
             return;
         }
@@ -356,6 +363,7 @@ public class MapleServerHandler extends IoHandlerAdapter implements MapleServerH
         session.setIdleTime(IdleStatus.WRITER_IDLE, 60);
 
         if (LoginServer.isAdminOnly()) {
+            System.out.println("Its Not Admin");
             StringBuilder sb = new StringBuilder();
             sb.append("IoSession opened ").append(address);
             System.out.println(sb.toString());
@@ -364,7 +372,7 @@ public class MapleServerHandler extends IoHandlerAdapter implements MapleServerH
         FileWriter fw = isLoggedIP(session);
         if (fw != null) {
             client.setMonitored(true);
-        }
+        }     
     }
 
     @Override
@@ -404,7 +412,7 @@ public class MapleServerHandler extends IoHandlerAdapter implements MapleServerH
                 session.removeAttribute(MapleClient.CLIENT_KEY);
             }
         }
-        System.out.println("session with: " + client.CheckIPAddress());
+        System.out.println("session with: " + session.getRemoteAddress());
         super.sessionClosed(session);
     }
 
