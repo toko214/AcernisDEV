@@ -124,7 +124,7 @@ public class MapleClient implements Serializable {
 
     public void createdChar(final int id) {
         allowedChar.add(id);
-    }
+        }
 
     public final boolean login_Auth(final int id) {
         return allowedChar.contains(id);
